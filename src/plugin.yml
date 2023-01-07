@@ -1,0 +1,6 @@
+name: PasswordPlugin
+author: LowFat
+api-version: 1.17
+version: 1.0
+main: com.lowfat.pwdpl.PasswordPlugin
+commands:
